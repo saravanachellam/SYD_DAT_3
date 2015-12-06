@@ -43,5 +43,5 @@ Monday | Wednesday
 
 * Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists.
 * Read about some [Markdown Techniques](http://daringfireball.net/projects/markdown/syntax)
-* Write a summary of 
+* Write a summary of 2 chapters of [The Data Science Handbook](http://www.thedatasciencehandbook.com/) in Markdown and submit a change request in the Lab Directory
 
