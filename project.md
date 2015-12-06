@@ -44,7 +44,7 @@ If it's not possible or practical to include your entire dataset, you should lin
 ## Milestones
 
 
-### December 22 (Mandatory): Question and Data Set
+### December 16 (Mandatory): Question and Data Set
 
 What is the question you hope to answer? What data are you planning to use to answer that question? What do you know about the data so far? Why did you choose this topic?
 
@@ -58,7 +58,7 @@ Example:
 
 ### February 3 (Mandatory): First Draft Due
 
-Zip up all files relevant to your project, and email them to Sinan. Your peers and instructors will provide feedback, according to [these guidelines](peer_review.md).
+Zip up all files relevant to your project, and email them to Alasdair. Your peers and instructors will provide feedback, according to [these guidelines](peer_review.md).
 
 At a minimum, you should include:
 * Narrative of what you have done so far and what you are still planning to do, ideally in a format similar to the format of your final project paper
@@ -76,11 +76,11 @@ Tips for success:
 * If your reviewers can actually run your code on the provided data, they will be able to give you more useful feedback on your code. (It can be very hard to make useful code suggestions on code that can't be run!)
 
 
-### February 20 (Optional): Second Draft Due 
+### February 17 (Optional): Second Draft Due 
 
 If you would like additional feedback on your project, submit a revised version of your project. Your instructors will provide feedback. (There is no peer review for the second draft.)
 
 
-### Feb 28 and Mar 2: Presentation
+### Feb 29 and Mar 2: Presentation
 
 Deliver your project presentation in class, and submit all required deliverables (paper, slides, code, data, and data dictionary).

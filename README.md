@@ -42,6 +42,6 @@ Monday | Wednesday
 **Optional:**
 
 * Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists.
-* Look over Data science overview ([slides](slides/01_course_overview.pdf))
 * Read about some [Markdown Techniques](http://daringfireball.net/projects/markdown/syntax)
+* Write a summary of 
 
