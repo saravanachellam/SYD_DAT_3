@@ -1,0 +1,18 @@
+ 
+1)Improper job descriptions and organisation defintion of data scientists.
+
+2)Clustering data scientist based on survey results
+
+3)Classification of data scientist - data business,data creative,data researcher and data developer .
+
+
+4)T - shaped Data scientist -
+
+Be strong in one area (statistics,visualisation),but also have broad & relativelu uniform skills across other areas(big data,Machine learning ,business).
+
+So that colloboration is easier .
+
+
+5) Took survey to indentify my type of data scientist - Data creative.
+
+It gives more clarity based on what a person wants in the field of data science.

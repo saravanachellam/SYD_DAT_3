@@ -1,0 +1,36 @@
+# <u>Summary</u> 
+<br><br>
+
+
+
+## DJ Patil 
+<br><br>
+
++   Data sceience is a team sport and people constantly collaborate 
+
++   Besides the usual skills, the other thing that’s really
+    important is the ability to make, storytell, and create narratives. 
+    Also, never losing the feeling of passion and curiosity.
+
++   maximizing your exposure to different
+    opportunities.
+
+<br><br>
+
+## Hilary Mason 
+<br><br>
+
++  DataGotham is our attempt to highlight this diversity. We started it as a public flag that
+   we planted and said, “Whatever you do, if you care about data, come here and meet other
+   people who also feel the same way.”
+
++ More flexibility in working when working in startups.Easily avaible data sets.
+
+
++ For each data project you’re working on, you need to ask yourself these questions: what
+  are you working on? How will I know when it’s done? What does it impact? 
+
++  Dividing the work of a data scientist into three buckets: Stats, Code, and Storytelling/Visualization.
+   Whichever one of those you’re best at, do a project that highlights that strength. Then, do a project
+   using whichever one of those you’re worst at. This helps you grow, learn something new,
+   and figure out what you need to learn next. Keep going from there.
